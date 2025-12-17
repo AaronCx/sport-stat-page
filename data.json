@@ -1,0 +1,13 @@
+{
+  "teams": ["BRO", "BSN", "CHC", "CIN", "NYG", "PHI", "PIT", "STL"],
+  "wins": {
+    "BRO": { "BSN": 10, "CHC": 15, "CIN": 15, "NYG": 14, "PHI": 14, "PIT": 15, "STL": 11 },
+    "BSN": { "BRO": 12, "CHC": 13, "CIN": 13, "NYG": 13, "PHI": 14, "PIT": 12, "STL": 9 },
+    "CHC": { "BRO": 7, "BSN": 9, "CIN": 12, "NYG": 7, "PHI": 16, "PIT": 8, "STL": 10 },
+    "CIN": { "BRO": 7, "BSN": 9, "CHC": 10, "NYG": 13, "PHI": 13, "PIT": 13, "STL": 8 },
+    "NYG": { "BRO": 8, "BSN": 9, "CHC": 15, "CIN": 9, "PHI": 12, "PIT": 15, "STL": 13 },
+    "PHI": { "BRO": 8, "BSN": 8, "CHC": 6, "CIN": 9, "NYG": 10, "PIT": 13, "STL": 8 },
+    "PIT": { "BRO": 7, "BSN": 10, "CHC": 14, "CIN": 9, "NYG": 7, "PHI": 9, "STL": 6 },
+    "STL": { "BRO": 11, "BSN": 13, "CHC": 12, "CIN": 14, "NYG": 9, "PHI": 14, "PIT": 16 }
+  }
+}
